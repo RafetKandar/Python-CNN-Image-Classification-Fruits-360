@@ -1,6 +1,6 @@
 # Python-CNN-Image-Classification-
 
-Fruits Detection using CNN model.
+<strong> Fruits Detection using CNN model. </strpng>
 
 Dataset used :
 
@@ -10,16 +10,19 @@ A dataset of images consists of various fruits and vegetables.
 
 About Dataset
 
-Total number of images: 90483.
+<ul>
+  <li>Total number of images: 90483.</li>
 
-Training set size: 67692 images (one fruit or vegetable per image).
+<li>Training set size: 67692 images (one fruit or vegetable per image).</li>
 
-Test set size: 22688 images (one fruit or vegetable per image).
+<li>Test set size: 22688 images (one fruit or vegetable per image).</li>
 
-Multi-fruits set size: 103 images (more than one fruit (or fruit class) per image)
+<li>Multi-fruits set size: 103 images (more than one fruit (or fruit class) per image)</li>
 
-Number of classes: 131 (fruits and vegetables).
+<li>Number of classes: 131 (fruits and vegetables).</li>
 
-Image size: 100x100 pixels.
+<li>Image size: 100x100 pixels.</li>
+
+</ul>
 
 You can have this dataset from : https://www.kaggle.com/moltean/fruits 
