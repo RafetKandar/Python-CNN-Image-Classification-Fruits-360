@@ -1,6 +1,6 @@
 # Python-CNN-Image-Classification
 
-<img src = "img/vegetable&Fruit.jpg" width = 1000px></img>
+<img src = "img/vegetable&Fruit.jpg" width = 1000></img>
 
 
 <strong> Fruits Detection using CNN model. </strpng>
