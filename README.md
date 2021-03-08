@@ -1,6 +1,6 @@
 # Python-CNN-Image-Classification
 
-<img src = "img/vegetable&Fruit.jpg" widht = 200></img>
+<img src = "img/vegetable&Fruit.jpg"></img>
 
 
 <strong> Fruits Detection using CNN model. </strpng>
@@ -27,5 +27,8 @@ About Dataset
 <li>Image size: 100x100 pixels.</li>
 
 </ul>
+
+### Result
+<img src = "img/resultGraph.PNG"></img>
 
 You can have this dataset from : https://www.kaggle.com/moltean/fruits 
