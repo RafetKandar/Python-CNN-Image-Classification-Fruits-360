@@ -22,4 +22,4 @@ Number of classes: 131 (fruits and vegetables).
 
 Image size: 100x100 pixels.
 
-You can have this dataset from : https://www.kaggle.com/moltean/fruits or https://mihaioltean.github.io
+You can have this dataset from : https://www.kaggle.com/moltean/fruits 
