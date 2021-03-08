@@ -1,4 +1,7 @@
-# Python-CNN-Image-Classification-
+# Python-CNN-Image-Classification
+
+<img src = "img/AnaSayfa.PNG"></img>
+
 
 <strong> Fruits Detection using CNN model. </strpng>
 
